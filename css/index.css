@@ -1,0 +1,24 @@
+#rocket{
+	height: 350px;
+	position: absolute;
+	top: 150px;
+	left:250px;
+	
+}
+
+#sat{
+	height:350px;
+	position: absolute;
+	top: 250px;
+	left: 650px;
+}
+
+#title{
+	position: absolute;
+	top: 15px;
+	left: 20px;
+}
+
+body {
+	background: linear-gradient(to right, rgb(11, 11, 181), rgb(22, 1, 4));
+  }

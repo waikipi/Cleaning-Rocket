@@ -1,0 +1,35 @@
+body{
+	overflow: hidden;
+}
+
+
+#rocket{
+	height: 120px;
+	position: absolute;
+	bottom: 0;
+	left: 400px;
+}
+
+#sat{
+	height: 50px;
+	width: 80px;
+	top: -300px;
+	position: absolute;
+}
+
+
+#universe1{
+	position: absolute;
+	height: 700px;
+	width: 1400px;
+	top: -600px;
+}
+
+#universe2{
+	position: absolute;
+	height: 700px;
+	width: 1400px;
+	top: 0px;
+}
+
+
