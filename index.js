@@ -124,7 +124,8 @@ function flyingSatellite(){
 					satelliteLocationX = Math.random() * windowWidth;
 					counter+=1;
 					if(counter===5){
-						window.location.href = "../html/gameover.html";
+						//window.location.href = "../html/gameover.html";
+						window.location.href = "gameover.html";
 					}			
 				}
 			}
